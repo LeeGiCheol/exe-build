@@ -1,0 +1,17 @@
+venv
+**/.idea/
+**/.venv/
+
+**/*.mov
+**/*.png
+**/*.jpg
+**/*.csv
+**/*.xlsx
+**/*.key
+**/__pycache__/
+**/build/
+**/dist/
+build/
+dist/
+
+**/결과물/
